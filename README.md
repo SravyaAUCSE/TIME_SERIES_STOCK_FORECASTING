@@ -1,4 +1,3 @@
-<img width="653" height="472" alt="481370934-2d5fffda-267f-4b9d-a6c9-abf16ff8a737" src="https://github.com/user-attachments/assets/bd1e7fe3-2ef1-47bd-9b87-624bf6d07c3f" /># TIME_SERIES_STOCK_FORECASTING
 TIME_SERIES_STOCK_FORECASTING
 An interactive and automated stock market forecasting dashboard built with Streamlit, integrating both classical time series models (ARIMA, SARIMA, Prophet) and deep learning (LSTM).
 
